@@ -81,6 +81,7 @@ end
 % Number of top graphs to select
 topN = length(jaccard_similarity);
 
+%jaccard_similaritytopind= find(jaccard_similarity>8*max(jaccard_similarity)/10);
 jaccard_similaritytopind= find(jaccard_similarity>6*max(jaccard_similarity)/10);
 
 % Find the indices of the top N graphs having maximum similarity in
