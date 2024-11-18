@@ -3,7 +3,6 @@ The main contributions of the paper are: (i) A trust-theoretic approach for esti
 (ii) A scene inference algorithm through a graph-matching approach involves weighted triplet matching. Our analysis demonstrates that the proposed approach obtains the best scene inference accuracy, i.e. $0.91$, among all the SOTA methods due to effective encoding of scene structure. 
 (iii) Improved robustness of scene inference against erroneous edges by incorporating non-edge triplet matching in the graph-matching approach.
 
-for node2vec-master
 
 ## Citation
 If you use the source code, please cite the following paper
