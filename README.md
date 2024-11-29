@@ -12,7 +12,15 @@ If you use the source code, please cite the following paper
 
 ```bash
 
-@INPROCEEDINGS{}
+@ARTICLE{10770563,
+  author={Meena, Preeti and Kumar, Himanshu and Yadav, Sandeep},
+  journal={IEEE Signal Processing Letters}, 
+  title={Scene Inference using Saliency Graphs with Trust-Theoretic Semantic Information Encoding}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/LSP.2024.3508538}}
 ```
 
 ## Acknowledgements
