@@ -21,6 +21,14 @@ If you use the source code, please cite the following paper
   number={},
   pages={1-5},
   doi={10.1109/LSP.2024.3508538}}
+
+@article{meena2024volumetric,
+  title={A Volumetric Saliency Guided Image Summarization for RGB-D Indoor Scene Classification},
+  author={Meena, Preeti and Kumar, Himanshu and Yadav, Sandeep},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgements
